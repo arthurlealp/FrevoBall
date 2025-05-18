@@ -39,4 +39,4 @@ Para remover os dados salvos: del ranking.dat  # Windows
 ## 🎥 Vídeo de demonstração
 
 Veja o jogo funcionando no vídeo abaixo:
-🔗 [Assista aqui](https://streamable.com/oz8wqg)
+🔗 [Assista aqui](https://drive.google.com/file/d/1c4_SmHCNGUYUVUIZcjgGTbnDz_QDsLZH/view?usp=drive_link)
