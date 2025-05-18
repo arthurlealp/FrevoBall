@@ -26,12 +26,12 @@ Entre na pasta do projeto com o terminal MSYS2 UCRT64 e use um dos comandos abai
 Compilar com Gemini: gcc main.c -o FrevoBall.exe -lraylib -lcurl -lopengl32 -lgdi32 -lwinmm
 
 ## 🕹Controles do jogo
-  Tecla	Ação
-      A / ←	Andar para a esquerda
-      D / →	Andar para a direita
-      W / ↑	Pular
-    ENTER	Confirmar (menu / ranking)
-    ESC	Voltar ao menu / sair
+ # Tecla	Ação<br>
+      A / ←	Andar para a esquerda<br>
+      D / →	Andar para a direita<br>
+      W / ↑	Pular<br>
+      ENTER	Confirmar (menu / ranking)<br>
+      ESC	Voltar ao menu / sair
 
 ## 🧼Como limpar o ranking
 Para remover os dados salvos: del ranking.dat  # Windows
