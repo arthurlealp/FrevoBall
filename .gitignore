@@ -1,0 +1,27 @@
+# Arquivos de compilação
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.dylib
+
+# Arquivos de IDE/Editor
+.vs/
+.vscode/
+*.swp
+*~
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos de build
+build/
+bin/
+obj/
+
+# Arquivos de dependências
+*.d
+*.dll
+*.lib 
