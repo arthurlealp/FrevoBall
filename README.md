@@ -20,10 +20,11 @@ pacman -S mingw-w64-ucrt-x86_64-raylib          # Biblioteca gráfica Raylib
 pacman -S mingw-w64-ucrt-x86_64-curl            # libcurl (acesso à internet)
 ```
 
-## Como compilar o jogo
-Entre na pasta do projeto com o terminal MSYS2 UCRT64 e use um dos comandos abaixo:
-
-Compilar com Gemini: gcc main.c -o FrevoBall.exe -lraylib -lcurl -lopengl32 -lgdi32 -lwinmm
+## Compilação e execução
+1. Abra o MSYS2 URCT64<br>
+2. Entre no diretório: cd C:\caminho\para\pasta\FrevoBall<br>
+3. Compile o jogo: gcc main.c -o FrevoBall.exe -lraylib -lcurl -lopengl32 -lgdi32 -lwinmm<br>
+4. Execute o jogo: ./FrevoBall.exe
 
 ## 🕹Controles do jogo
  # Tecla	Ação<br>
